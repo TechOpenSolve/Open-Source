@@ -41,7 +41,7 @@ To acknowledge and give credit to individuals, companies, or organizations that 
 
 Thank you, [Name/Username], and [any other individuals/companies/organizations involved], 
 for your valuable contribution. 
-This marks a significant step in our efforts towards resolving the issue!!
+This marks a significant step in our efforts towards fostering a more inclusive and supportive open-source community!
 
 ```
 Replace the placeholders (e.g., [Name/Username], [Description of the contribution], [Link], [Additional Details]) with the appropriate information.
